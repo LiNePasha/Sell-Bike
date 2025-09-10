@@ -83,7 +83,7 @@ export default function Sell() {
         dir="rtl"
         className="min-h-screen bg-gray-100 flex items-center justify-center p-0 md:p-6"
       >
-        <div className="w-full max-w-3xl bg-white rounded-3xl shadow-xl py-4 px-1 md:p-8">
+        <div className="w-full max-w-3xl bg-white rounded-3xl shadow-xl py-4 px-2 md:p-8">
           {/* Stepper */}
           <Stepper currentStep={currentStep} />
 
