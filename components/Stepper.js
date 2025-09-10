@@ -31,7 +31,7 @@ export default function Stepper({ currentStep = 1 }) {
             </div>
 
             <span
-              className={`mt-2 text-sm md:text-base ${
+              className={`mt-2 text-[12px] md:text-base ${
                 active ? "text-red-600 font-semibold" : "text-gray-600"
               }`}
             >
