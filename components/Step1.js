@@ -30,11 +30,11 @@ export default function Step1({ formData, setFormData }) {
           width={100}
           height={100}
         />
-        <h2 className="text-xl md:text-xl font-bold text-center text-gray-800 mb-2">
+        <h2 className="text-lg md:text-xl font-bold text-center text-gray-800 mb-0 md:mb-2">
           معاك موتوسيكل حالته وسعره كويسين وعايز تبيع ؟
         </h2>
       </div>
-      <h2 className="text-xl md:text-2xl font-bold text-center text-gray-800 mb-6">
+      <h2 className="text-lg md:text-2xl font-bold text-center text-gray-800 mb-6">
         اختار نوع الموتوسيكل
       </h2>
 
